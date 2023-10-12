@@ -5,6 +5,7 @@
  * @separator: string to be printed between numbers
  * @n: number of arguments passed to the function
  *
+ * Return: void
  */
 
 void print_numbers(const char *separator, const unsigned int n, ...)
